@@ -13,6 +13,7 @@
 ### Decentralized GPU Computing & Yield Protocol on Robinhood Chain
 
 [![Website](https://img.shields.io/badge/Website-gpu--fi.uk-00C805?style=flat-square&logo=globe)](http://gpu-fi.uk/)
+[![X](https://img.shields.io/badge/X-@GPUFi__-000000?style=flat-square&logo=x)](https://x.com/GPUFi_)
 [![Network](https://img.shields.io/badge/Network-Robinhood%20Chain-111827?style=flat-square)](https://explorer.testnet.chain.robinhood.com)
 [![SDK](https://img.shields.io/badge/SDK-TypeScript%20%2F%20JavaScript-3178C6?style=flat-square&logo=typescript)](https://github.com/GPUFi/gpufi-sdk)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
